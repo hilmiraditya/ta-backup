@@ -1,5 +1,5 @@
 #!/bin/bash
 while true; do
-curl -v "http://172.17.125.128/"
+curl -v "http://167.172.4.18/"
 sleep 1
 done

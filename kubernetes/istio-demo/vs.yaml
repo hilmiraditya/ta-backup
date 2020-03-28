@@ -8,11 +8,6 @@ spec:
   gateways:
   - mydata-gateway
   http:
-  # - route:
-  #     - destination:
-  #         host: mydata
-  #         port:
-  #           number: 80
   - route:
       - destination:
           host: mydata
